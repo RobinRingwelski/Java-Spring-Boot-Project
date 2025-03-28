@@ -12,7 +12,7 @@ You can use Spring Initializr (https://start.spring.io/) with the following sett
 
     platform: Web based
 
-    1. Add a Project Overview
+1. Project overview
 
 2. Highlight Key Features
 
