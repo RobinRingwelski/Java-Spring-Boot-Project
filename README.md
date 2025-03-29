@@ -1,36 +1,33 @@
-📌 Spring Boot First Web Project
+📌 Spring Boot Web Project
 
-Goal: Create a simple Spring Boot web application with a homepage and a REST endpoint.
-🚀 Steps to Build and Run
-1️⃣ Set Up a New Spring Boot Project
+Goal: Creating a simple Spring Boot web application with a homepage and a REST endpoint.
 
-You can use Spring Initializr (https://start.spring.io/) with the following settings:
+I will use the Spring Initializr (https://start.spring.io/) with the following settings:
 
     Project: Maven
 
-    Language: Java :)
+    Language: Java
 
     platform: Web based
 
 1. Project overview
 
-2. Highlight Key Features
+2. Highlights & Key Features
 
-3. Include Setup Instructions
-
-4. Add Visuals
+3. Setup Instructions
    
-6. Api usage details:
+4. Api usage details:
    
-7. Deployment Information
+5. Deployment Information
    
-7. Contribution Guide
+6. Contribution Guide
    
-9. Troubleshooting Tips
+7. Troubleshooting Tips
     
-9. License & Credits
+8. License & Credits
 
-Informative links based on project production and fim.
+Links about Spring boot and the spring Framework:
+
 https://spring.io/projects/spring-framework
 
 https://spring.io/projects/spring-boot
